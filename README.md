@@ -68,11 +68,11 @@ npm run html-validator
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
+## 👤 Abimbola Aminat
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@bimbolabuari](https://github.com/bimbolabuari)
+- Twitter: [@bimbolabuari](https://twitter.com/bimbolabuari)
+- Linkedin: [@bimbolabuari](https://www.linkedin.com/in/bimbolabuari/)
 
 ## 🤝 Contributing
 
@@ -88,7 +88,7 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration, resources/assets used
-- etc
+
 
 ## 📝 License
 
