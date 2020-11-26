@@ -15,6 +15,10 @@
   background-position-x: center;
 }
 
+.hover:hover {
+  opacity: 0.4;
+}
+
 .nav {
   width: 60%;
   height: 30px;
@@ -53,7 +57,7 @@
   height: 104px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: -9px;
+  margin-bottom: 10px;
   font-size: 24px;
   line-height: 36px;
   cursor: pointer;
@@ -68,6 +72,7 @@
   font-size: 16px;
   line-height: 18px;
   font-weight: bold;
+  margin-bottom: 15px;
 }
 
 .large {
@@ -83,30 +88,17 @@
 
 .image-li {
   position: relative;
-  margin: 0;
   width: 25%;
-  height: 200px;
+  height: inherit;
 }
 
 .image-href {
-  position: absolute;
-  z-index: 1;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  display: block;
   overflow: hidden;
   cursor: pointer;
 }
 
 .image {
-  width: 364px;
-  height: 200px;
-  position: absolute;
-  z-index: 1;
-  left: 50%;
-  margin-left: -182px;
+  width: 100%;
 }
 
 .list {
@@ -118,6 +110,10 @@
   color: rgb(255, 255, 255);
   text-align: center;
   font-size: 13px;
+}
+
+.list:hover {
+  opacity: 1;
 }
 
 .nav-container {
