@@ -1,27 +1,42 @@
-# Project Name
+# Odin-apple-clone
 
-> One paragraph statement about the project.
+This project is [an odin assignment](https://www.theodinproject.com/courses/html-and-css/lessons/positioning-and-floating-elements) about cloning the [old apple homepage](https://web.archive.org/web/20140301004610/http://www.apple.com/) that demonstrates the knowledge of HTML, CSS background properties, CSS gradients using linear gradients for designing navigation bar, CSS flexbox for positioning elements CSS media query for responsiveness.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./image/apple_screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+HTML
+
+- Semantic HTML
+- Img tags
+
+CSS
+
+- CSS Gradients
+- CSS Flexbox for effective layout
+- CSS Media query for responsiveness
+- Background properties
+- Display properties
+- Mark-down
+- [Prettier](https://prettier.io/) for code formatting
+- [Styelint](https://stylelint.io/) for CSS linting
+- [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
+- [Github Actions for workflow](https://github.com/features/actions)
+- [Netlify for deployment](https://app.netlify.com/)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://deploy-preview-1--bimbola-apple-clone.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/bimbolabuari/odin-apple-clone.git
 
 ```
 
@@ -86,8 +101,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
+- [Apple](https://www.apple.com/)
+- [@bolah2009](https://github.com/bolah2009)
 
 ## 📝 License
 

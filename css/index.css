@@ -76,9 +76,22 @@
 }
 
 .large {
+  height: 29px;
+  cursor: pointer;
+  text-align: center;
+  overflow: hidden;
+}
+
+.img {
   height: 64px;
   cursor: pointer;
   text-align: center;
+}
+
+.img:hover,
+.img:active {
+  margin-top: -32px;
+  text-decoration: underline;
 }
 
 .image-ul {
