@@ -78,4 +78,4 @@ jobs:
         run: |
           npm install
       - name: Webhint Report
-        run: npx hint --telemetry=off .
+        run:
