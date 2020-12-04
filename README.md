@@ -1,6 +1,6 @@
-# Odin-apple-clone
+# Building with background and gradients: [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/) clone
 
-This project is [an odin assignment](https://www.theodinproject.com/courses/html-and-css/lessons/positioning-and-floating-elements) about cloning the [old apple homepage](https://web.archive.org/web/20140301004610/http://www.apple.com/) that demonstrates the knowledge of HTML, CSS background properties, CSS gradients using linear gradients for designing navigation bar, CSS flexbox for positioning elements CSS media query for responsiveness.
+This project is [an odin assignment](https://www.theodinproject.com/courses/html-and-css/lessons/building-with-backgrounds-and-gradients) about cloning the [old apple homepage](https://web.archive.org/web/20140301004610/http://www.apple.com/) that demonstrates the knowledge of HTML, CSS background properties, CSS gradients using linear gradients for designing navigation bar, CSS flexbox for positioning elements CSS media query for responsiveness.
 
 ![screenshot](./image/apple-screenshot.png)
 
@@ -13,23 +13,21 @@ HTML
 - Semantic HTML
 - Img tags
 
-CSS
-
-- CSS Gradients
-- CSS Flexbox for effective layout
-- CSS Media query for responsiveness
-- Background properties
-- Display properties
-- Mark-down
+- CSS
+  - CSS Gradients
+  - CSS Flexbox for effective layout
+  - CSS Media query for responsiveness
+  - CSS Positioning
 - [Prettier](https://prettier.io/) for code formatting
-- [Styelint](https://stylelint.io/) for CSS linting
+- [Stylelint](https://stylelint.io/) for CSS linting
 - [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
 - [Github Actions for workflow](https://github.com/features/actions)
 - [Netlify for deployment](https://app.netlify.com/)
 
+
 ## Live Demo
 
-[Live Demo Link](https://deploy-preview-1--bimbola-apple-clone.netlify.app/)
+[Live Demo Link](https://bimbola-apple-clone.netlify.app/)
 
 ### Development (Running locally)
 
