@@ -24,7 +24,6 @@ HTML
 - [Github Actions for workflow](https://github.com/features/actions)
 - [Netlify for deployment](https://app.netlify.com/)
 
-
 ## Live Demo
 
 [Live Demo Link](https://bimbola-apple-clone.netlify.app/)
