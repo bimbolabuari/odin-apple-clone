@@ -1,34 +1,46 @@
-# Project Name
+# Building with background and gradients: [Apple](https://web.archive.org/web/20140301004610/http://www.apple.com/) clone
 
-> One paragraph statement about the project.
+This project is [an odin assignment](https://www.theodinproject.com/courses/html-and-css/lessons/building-with-backgrounds-and-gradients) about cloning the [old apple homepage](https://web.archive.org/web/20140301004610/http://www.apple.com/) that demonstrates the knowledge of HTML, CSS background properties, CSS gradients using linear gradients for designing navigation bar, CSS flexbox for positioning elements CSS media query for responsiveness.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./image/apple-screenshot.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+HTML
+
+- Semantic HTML
+- Img tags
+
+- CSS
+  - CSS Gradients
+  - CSS Flexbox for effective layout
+  - CSS Media query for responsiveness
+  - CSS Positioning
+- [Prettier](https://prettier.io/) for code formatting
+- [Stylelint](https://stylelint.io/) for CSS linting
+- [HTML Validator](https://validator.w3.org/) and [Webhint](https://webhint.io/)
+- [Github Actions for workflow](https://github.com/features/actions)
+- [Netlify for deployment](https://app.netlify.com/)
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://bimbola-apple-clone.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/bimbolabuari/odin-apple-clone.git
 
 ```
 
 - Install Dependencies
 
 ```bash
-npm run install
+npm install
 ```
 
 To run StyleLint by itself, you may run the lint task:
@@ -68,11 +80,11 @@ npm run html-validator
 - [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
-## 👤 Author
+## 👤 Abimbola Aminat
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@bimbolabuari](https://github.com/bimbolabuari)
+- Twitter: [@bimbolabuari](https://twitter.com/bimbolabuari)
+- Linkedin: [@bimbolabuari](https://www.linkedin.com/in/bimbolabuari/)
 
 ## 🤝 Contributing
 
@@ -86,9 +98,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [Apple](https://www.apple.com/)
+- [@bolah2009](https://github.com/bolah2009)
 
 ## 📝 License
 
